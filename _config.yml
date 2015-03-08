@@ -11,7 +11,7 @@ relative_permalinks: true
 # Setup
 title:               Piyush Jain
 tagline:             'field notes'
-description:         'Various learnings from research, analytics and programming. Hope you find something useful here. Using the <a href="http://lanyon.getpoole.com" target="_blank"> theme based on <a href="http://jekyllrb.com" target="_blank">Jekyll</a> .'
+description:         'Various learnings from research, analytics and programming. Hope you find something useful here. Using the <a href="http://lanyon.getpoole.com" target="_blank">Lanyon theme</a> based on <a href="http://jekyllrb.com" target="_blank">Jekyll</a> .'
 url:                 http://piyushnz.github.io
 baseurl:             /
 paginate:            5
