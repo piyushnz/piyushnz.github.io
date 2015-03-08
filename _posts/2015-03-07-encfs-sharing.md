@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sharing encrypted files with encfs and dropbox
+title: Sharing encrypted files using Encfs and Drobox (or whatever cloud storage you are using)
 ---
 
 I recently needed to share some sensitive data files with a colleague. We wanted something that would allow us to analyse the same set of files simultaneously even when those files changed. For various reasons our preferred solution was syncing encrypted files using a shared directory on dropbox. I'm running OSX 10.9 and my colleague is using Windows 8 so we also needed a cross-platform solution. 
@@ -17,7 +17,7 @@ The latest stable version of EncFS is 1.7.5. However, if you intend on syncing y
 
 Here are the steps to install EncFS 1.7.4.
 
-- ** OSX 10.9 (Mavericks)**  
+- **OSX 10.9 (Mavericks)**  
   1. Install osxfuse with macfusion compatibility layer, available from  https://osxfuse.github.io/
   2. Install the wonderful [Homebrew package manager](http://brew.sh) (if you don't have it already) and run from a terminal:
 ```brew install https://raw.githubusercontent.com/jollyjinx/encfs.macosx/master/encfs.rb```
