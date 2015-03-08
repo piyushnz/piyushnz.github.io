@@ -13,7 +13,7 @@ So, we decided on an alternative solution which used the open source [EncFS](htt
 
 The latest stable version of EncFS is 1.7.5. However, if you intend on syncing your files with a windows machine  **you will want to install EncFS 1.7.4**. This is because the windows port ([encfs4win](http://members.ferrara.linux.it/freddy77/encfs.html)) is based on 1.7.4 and files encrypted with 1.7.4 are incompatible with those using 1.7.5. 
 
-##### Installation
+### Installation
 
 Here are the steps to install EncFS 1.7.4.
 
@@ -29,7 +29,7 @@ There is a windows port called [encfs4win](http://members.ferrara.linux.it/fredd
 Sorry can't help too much here - you will have to compile 1.7.4 and dependencies yourself. Download the source code here:  
 https://github.com/vgough/encfs/releases
 
-##### Usage
+### Usage
 
 Once you have EncFS up and running you can pretty much just follow the instructions given here:  
 https://www.bestvpn.com/blog/11385/protect-cloud-storage-files-encfs/
