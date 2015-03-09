@@ -27,10 +27,10 @@ There is a windows port called [encfs4win](http://members.ferrara.linux.it/fredd
 
 - **Linux**  
 Sorry can't help too much here - you will have to compile 1.7.4 and dependencies yourself. Download the source code here:  
-https://github.com/vgough/encfs/releases
+[https://github.com/vgough/encfs/releases](https://github.com/vgough/encfs/releases)
 
 ### Usage
 
 Once you have EncFS up and running you can pretty much just follow the instructions given here:  
-https://www.bestvpn.com/blog/11385/protect-cloud-storage-files-encfs/
+[https://www.bestvpn.com/blog/11385/protect-cloud-storage-files-encfs/](https://www.bestvpn.com/blog/11385/protect-cloud-storage-files-encfs/)
  
