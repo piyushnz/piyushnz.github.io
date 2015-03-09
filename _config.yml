@@ -15,7 +15,6 @@ description:         'Various learnings from research, analytics and programming
 url:                 http://piyushnz.github.io
 baseurl:             /
 paginate:            5
-comments: 			 True
 
 # About/contact
 author:
