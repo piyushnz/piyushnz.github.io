@@ -3,7 +3,7 @@ layout: post
 title: Sharing encrypted files using Encfs and Dropbox (or whatever cloud storage you are using)
 ---
 
-I recently needed to share some sensitive data files with a colleague. We wanted something that would allow us to analyse the same set of files simultaneously even when those files changed. For various reasons our preferred solution was syncing encrypted files using a shared directory on dropbox. I'm running OSX 10.9 and my colleague is using Windows 8 so we also needed a cross-platform solution. 
+I recently needed to securely share some data files with a colleague. For various reasons our preferred solution was syncing encrypted files using a shared directory on dropbox. I'm running OSX 10.9 and my colleague is using Windows 8 so we also needed a cross-platform solution. 
 
 Our initial idea was to create an encrypted volume using [TrueCrypt](http://truecrypt.sourceforge.net) but we abandoned ths given last year's [security warning](http://truecrypt.sourceforge.net).  Besides changes to files in an encrypted volume do not seem to propagate to dropbox  until the volume is unmounted (please correct me if I'm wrong), which would be a major annoyance. 
 
