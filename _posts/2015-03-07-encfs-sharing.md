@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sharing encrypted files using EncFS and Dropbox (or whatever cloud storage you are using)
+comments:true
 ---
 
 I recently needed to securely share some data files with a colleague. For various reasons our preferred solution was syncing encrypted files using a shared directory on dropbox. I'm running OSX 10.9 and my colleague is using Windows 8 so we also needed a cross-platform solution. 
